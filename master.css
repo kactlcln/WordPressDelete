@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+}
+.header{
+  height:20vh;
+  text-align: center;
+  background-color: black;
+  font-size: 40px;
+  color:white;
+  line-height: 20vh;
+}
+.main{
+  height:20vh;
+  text-align: center;
+  background-color: orange;
+  padding:20vh;
+}
+.footer{
+  height:20vh;
+  text-align: center;
+  background-color: gray;
+}
